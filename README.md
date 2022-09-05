@@ -1,9 +1,7 @@
 
 #  淘宝个人购买数据爬虫
----
 
 ## 二、使用教程
-
  1. 下载chrome浏览器
  2. 查看chrome浏览器的版本号，[点击这里下载](http://chromedriver.storage.googleapis.com/index.html)对应版本号的chromedriver驱动
  3. pip安装下列包
